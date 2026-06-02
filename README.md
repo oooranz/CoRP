@@ -36,11 +36,18 @@ MODEL_NAME=Qwen/Qwen2.5-3B-Instruct CUDA_DEVICES=0,1,2,3 bash scripts/run.sh gsm
 ```
 
 
-<!-- ## Citation
+## Citation
 
 If you found the resources in this repository useful, please cite our work:
 
 ```bibtex
-
+@misc{zhang2026consolidatingrewardedperturbationsllm,
+      title={Consolidating Rewarded Perturbations for LLM Post-Training}, 
+      author={Zheyu Zhang and Shuo Yang and Gjergji Kasneci},
+      year={2026},
+      eprint={2605.31494},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.31494}, 
+}
 ```
- -->
